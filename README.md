@@ -35,6 +35,7 @@
 #### Frameworks/Platforms
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/flutter/flutter.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/8baf984947f4d9c32006bd03fa4c51ff91aadf8d/topics/android/android.png"></code>
 
 #### Tools
 
@@ -53,14 +54,13 @@ Things you should know -
 
 - 🔭 <b>Currently working on:</b> Dart & Flutter
 - 🌱 <b>Getting better at:</b> Flutter, Agile, Software Development
-
-- 📫 <b>Reach me out:</b> <a href="https://hasanm08.github.io" target="_blank">hasanm08.github.io/</a>
+ 
 
 <p align='center'>
 <img align='center' src="https://visitor-badge.glitch.me/badge?page_id=hasanm08.visitor-badge">
 <p/> 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=hasanm08&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=alireza-rajaei&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 <div align="center">
