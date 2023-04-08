@@ -7,7 +7,7 @@
 <p align="center">
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/hasanm08/" target="_blank">
+  <a href="https://www.linkedin.com/in/alireza-rajaei-414b99142/" target="_blank">
   <img alt="hasanm08 on Linkedin" src="https://avatars3.githubusercontent.com/u/357098?s=200&v=4" width="40" height="40" >
   </a>
   <a href="https://stackoverflow.com/users/6924545" target="_blank">
