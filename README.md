@@ -5,13 +5,12 @@
 <h4 align="center">Mobile Developer</h4>
 
 <p align="center">
-<a href="https://stackexchange.com/users/6924545"><img src="https://stackexchange.com/users/flair/6924545.png" width="208" height="58" alt="profile for hasanm08 on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for alireza rajaei on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
-</p>
+
 <p align="center">
   <a href="https://www.linkedin.com/in/hasanm08/" target="_blank">
   <img alt="hasanm08 on Linkedin" src="https://avatars3.githubusercontent.com/u/357098?s=200&v=4" width="40" height="40" >
   </a>
-  <a href="https://stackoverflow.com/users/14041364" target="_blank">
+  <a href="https://stackoverflow.com/users/6924545" target="_blank">
     <img alt="hasanm08 on Stackoverflow" src="https://stackoverflow.design/assets/img/logos/talent/talent-logo-compact.svg" width="100" height="40" >
   </a>
   <a href="https://twitter.com/hasanm08" target="_blank">
