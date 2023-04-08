@@ -64,9 +64,9 @@ Things you should know -
 
 
 <div align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=hasanm08&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="hasanm08's github stats" /></a>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=alireza-rajaei/&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="hasanm08's github stats" /></a>
 </div>
   
 <div align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasanm08&layout=compact&theme=tokyonight&hide_border=true" /></a>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alireza-rajaei/&layout=compact&theme=tokyonight&hide_border=true" /></a>
 </div>
